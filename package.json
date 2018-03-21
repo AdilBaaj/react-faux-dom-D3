@@ -10,10 +10,10 @@
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
     "react-faux-dom": "^3.0.0",
-    "reactify": "^1.1.1",
+    "reactify": "^1.1.1"
   },
   "scripts": {
-    "build": "browserify -t reactify index.js -o bundle.js",
+    "build": "browserify -t reactify index.js -o bundle.js"
   },
   "author": "Adil Baaj",
   "license": "Unlicense",
